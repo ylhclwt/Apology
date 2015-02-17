@@ -1,2 +1,2 @@
 # Apology
-Apology to youth, a Wechat oddical account callback
+Apology to youth, a Wechat offical account app and management page
